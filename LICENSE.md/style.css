@@ -1,0 +1,12 @@
+body {
+  background-color:black;
+  padding:5px;
+}
+
+.title {
+  font-family:courier;
+  font-size:36pt;
+  color:white;
+  font-weight:bold;
+  margin-bottom:10px;
+}
